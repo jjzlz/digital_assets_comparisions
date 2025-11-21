@@ -6,7 +6,7 @@
 4. low mesh quality
 5. low texture quality
 
-# examples(category, id)
+# Examples(category, id)
 **For each category, randomly pick one URDF to visualize.**
 ## bottle, 9b
 Bottle cap rotation direction is incorrect.
@@ -24,7 +24,7 @@ Door rotation direction is incorrect.
 Switch rotation direction is incorrect.
 ![lamp_10](imgs/lamp_10.png)
 ## microwave, 9
-Door and handle rotation directions are incorrect.
+Door rotation direction is incorrect.
 ![microwave_9](imgs/microwave_9.png)
 ## pen, 4
 Pen cap rotation and removal directions are incorrect.
